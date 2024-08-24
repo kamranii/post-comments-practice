@@ -1,0 +1,68 @@
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/appsettings.Development.json
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/appsettings.json
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments.staticwebassets.runtime.json
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments.deps.json
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments.runtimeconfig.json
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments.dll
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.csproj.AssemblyReference.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.AssemblyInfoInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.AssemblyInfo.cs
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.csproj.CoreCompileInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.MvcApplicationPartsAssemblyInfo.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.RazorAssemblyInfo.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.RazorAssemblyInfo.cs
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets/msbuild.PostAndComments.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets/msbuild.build.PostAndComments.props
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PostAndComments.props
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PostAndComments.props
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/scopedcss/bundle/PostAndComments.styles.css
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/scopedcss/projectbundle/PostAndComments.bundle.scp.css
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.csproj.CopyComplete
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.dll
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/refint/PostAndComments.dll
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.genruntimeconfig.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/ref/PostAndComments.dll
+/Users/kamranimranli/Desktop/CodeAcademy/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/scopedcss/Pages/Error.cshtml.rz.scp.css
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/appsettings.Development.json
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/appsettings.json
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments.staticwebassets.runtime.json
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments.deps.json
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments.runtimeconfig.json
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments.dll
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/PostAndComments.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.csproj.AssemblyReference.cache
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.AssemblyInfoInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.AssemblyInfo.cs
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.csproj.CoreCompileInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.MvcApplicationPartsAssemblyInfo.cache
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.RazorAssemblyInfo.cache
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.RazorAssemblyInfo.cs
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets/msbuild.PostAndComments.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets/msbuild.build.PostAndComments.props
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PostAndComments.props
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PostAndComments.props
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/scopedcss/Pages/Error.cshtml.rz.scp.css
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/scopedcss/bundle/PostAndComments.styles.css
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/scopedcss/projectbundle/PostAndComments.bundle.scp.css
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.csproj.CopyComplete
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.dll
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/refint/PostAndComments.dll
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/PostAndComments.genruntimeconfig.cache
+/Users/kamranimranli/Desktop/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/obj/Debug/net6.0/ref/PostAndComments.dll

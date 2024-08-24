@@ -1,0 +1,15 @@
+﻿@page
+@model PostAndComments.Pages.Posts.DetailsModel
+@{
+
+}
+
+<div class="row">
+    <div class="col-12 border border-primary d-flex align-items-center mb-4">
+        <h1>@Model.Post.Title</h1>
+        <p>@Model.Post.Body</p>
+    </div>
+    <div class="col-12 border border-secondary">
+        @await Component.InvokeAsync("Comment", new { postId = Model.Post.Id })
+    </div>
+</div>

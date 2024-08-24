@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{BC869A6A-2BD5-4BDD-8E4A-CE3CA8FCA96A}|Default">
+  <MonoDevelop.Ide.ItemProperties.PostAndComments PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kamranimranli/Desktop/Study/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/Pages/Index.cshtml.cs" relfile="PostAndComments/Pages/Index.cshtml.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PostAndComments/ViewComponents/CommentViewComponent.cs">
+    <Files>
+      <File FileName="PostAndComments/Pages/Privacy.cshtml" />
+      <File FileName="PostAndComments/Pages/Error.cshtml" />
+      <File FileName="PostAndComments/Pages/Privacy.cshtml.cs" />
+      <File FileName="PostAndComments/Pages/Index.cshtml" />
+      <File FileName="PostAndComments/Pages/Index.cshtml.cs" Line="21" Column="1" />
+      <File FileName="PostAndComments/Pages/Posts/Details.cshtml" Line="1" Column="1" />
+      <File FileName="PostAndComments/Pages/Posts/Index.cshtml" Line="1" Column="1" />
+      <File FileName="PostAndComments/Pages/Shared/Components/Comment/Default.cshtml" Line="1" Column="1" />
+      <File FileName="PostAndComments/ViewComponents/CommentViewComponent.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PostAndComments" expanded="True">
+            <Node name="PostAndComments" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Posts" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="Comment" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Index.cshtml" expanded="True" />
+                <Node name="Privacy.cshtml" expanded="True" />
+              </Node>
+              <Node name="ViewComponents" expanded="True">
+                <Node name="CommentViewComponent.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

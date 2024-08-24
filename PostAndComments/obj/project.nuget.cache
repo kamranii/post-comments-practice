@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4dCYl7WdE6zDV5tzXLHogbDkpKgL5CP8FiWbRZPu8SommnTBwdtYJ0p13BVIVPukJAcneLXnp2kV+m1qkdFbaA==",
+  "success": true,
+  "projectFilePath": "/Users/kamranimranli/Desktop/Study/CodeAcademy/NET Core/Razor/PostAndComments/PostAndComments/PostAndComments.csproj",
+  "expectedPackageFiles": [
+    "/Users/kamranimranli/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

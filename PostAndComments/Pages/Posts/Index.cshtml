@@ -1,0 +1,15 @@
+﻿@page 
+@model PostAndComments.Pages.Posts.PostsModel
+@{
+}
+
+<div class="row">
+    @foreach(var post in Model.Posts)
+        {
+            <div class="col-3 border border-primary">
+                <h5>@post.Id . @post.Title</h5>
+                <p>@post.Body</p>
+                <a class="btn btn-secondary" asp-page="./Details" asp-route-id="@post.Id">See Details</a>
+            </div>
+        }
+</div>
